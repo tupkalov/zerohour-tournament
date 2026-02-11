@@ -1,0 +1,5 @@
+{
+  "name": "Zero Hour Tournament",
+  "description": "A sci-fi themed tournament manager supporting Single/Double Elimination and Round Robin formats with local storage persistence.",
+  "requestFramePermissions": []
+}
